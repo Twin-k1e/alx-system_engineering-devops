@@ -1,2 +1,1 @@
-#!/bin/bash
-0x00-shell_basics
+Task 0.Where am I?
